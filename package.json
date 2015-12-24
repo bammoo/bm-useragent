@@ -1,7 +1,7 @@
 {
   "name": "bm-useragent",
   "description": "User agent utils for nodejs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/bammoo/bm-useragent",
   "author": {
     "name": "bammoo",
@@ -25,6 +25,8 @@
   },
   "dependencies": {},
   "keywords": [
+    "Expressjs",
+    "user-agent",
     "useragent",
     "ua"
   ],
